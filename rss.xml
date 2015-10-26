@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[kyle.to]]></title>
         <description><![CDATA[kyle.to]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kyle-to/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 02:11:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 26 Oct 2015 02:12:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kyle-to/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xft1/t31.0-0/q83/p180x540/11411824_10100492023688608_5504065785074783039_o.jpg">]]></description>
-            <link>undefined89d6a814-c2e8-4f7f-9a9e-c6effc9074ff/index.html</link>
+            <link>https://www.facebook.com/photo.php?fbid=10100492023688608&amp;set=a.739069712438.2201212.122700794&amp;type=3&amp;permPage=1</link>
             <guid isPermaLink="false">89d6a814-c2e8-4f7f-9a9e-c6effc9074ff</guid>
-            <pubDate>Mon, 26 Oct 2015 02:10:37 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2015 02:12:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
