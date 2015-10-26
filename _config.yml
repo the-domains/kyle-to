@@ -1,0 +1,23 @@
+name: KYLE.TO
+favicon: null
+layout_spectrum: 0.6896835239604115
+typography_spectrum: 0.562675520312041
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.32190300757065415
+  lightness: 0.9990326624829322
+  saturation: 0.9373653416987509
+  rhythmicContrast: 0.7475550237577409
+purpose: []
